@@ -1,6 +1,6 @@
 import Home from "./Components/Home/Home";
 
-function App() {
+export function App() {
   return (
     <>
       <div>
@@ -9,5 +9,3 @@ function App() {
     </>
   );
 }
-
-export default App;
